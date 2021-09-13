@@ -1,5 +1,5 @@
 # Simon-game
-
+### [Play]( https://sakssingh.github.io/Simon-game/)
 ## Instructions to play:
 1. Press the START button. Simon will give the first signal. Repeat the signal by pressing the same color lens.
 
